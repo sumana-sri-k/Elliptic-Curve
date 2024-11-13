@@ -1,6 +1,6 @@
 # Function to perform modular inverse
 def mod_inv(x, p):
-    return pow(x, p - 2, p)
+    return pow(x, p - 2, p) 
 
 # Function to add two points P and Q
 def add_points(x1, y1, x2, y2, a, p):
